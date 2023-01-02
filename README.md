@@ -2,7 +2,8 @@
 
 # AIM:
 
-Name: Ronick Aakshath P; Ref./Reg. No.: 22007303
+Name: Ronick Aakshath P\
+Ref./Reg. No.: 22007303
 
 # DESIGN STEPS:
 
